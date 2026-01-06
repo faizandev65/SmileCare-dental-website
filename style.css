@@ -1,0 +1,22 @@
+.hero-title {
+  line-height: 1.2;
+}
+
+.hero-img {
+  display: inline-block !important;
+  width: 90px !important;
+  height: 45px !important;
+  background: #fff;
+  border-radius: 50px;
+  overflow: hidden;
+  vertical-align: middle;
+  margin: 0 12px;
+}
+
+.hero-img img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  border-radius: 50px;
+  display: block;
+}
